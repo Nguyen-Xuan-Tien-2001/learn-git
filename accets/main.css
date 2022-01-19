@@ -900,8 +900,8 @@
 .icon_row {
     display: flex;
     background-color: #e2dfdf;
-    padding-top: 111px;
-    padding-bottom: 111px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     flex-wrap: wrap;
 }
 .icon_col {
